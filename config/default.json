@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://jewarn86:weakenedspidermonkey@cluster0-ovfiw.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "flying100bannana700antler"
+}
